@@ -11,14 +11,18 @@ Will give you the following:
 * Yeoman
 * Grunt
 * Bower
-* Sublime text
-* GIT
+* SASS
 
 __BE Stack__
 
 Will give you the following:
 
+* Xcode CLI Tools
+* Homebrew
 * Composer
-* MAMP Pro
-* Sublime text
-* GIT
+
+	curl -sSL https://raw.github.com/cddlimited/setup/master/setup.sh > /tmp/setup.sh
+
+Then run the following command
+
+	sh /tmp/setup.sh
