@@ -12,17 +12,14 @@ Will give you the following:
 * Grunt
 * Bower
 * SASS
-
-__BE Stack__
-
-Will give you the following:
-
 * Xcode CLI Tools
 * Homebrew
 * Composer
 
-	curl -sSL https://raw.github.com/cddlimited/setup/master/setup.sh > /tmp/setup.sh
+=====
 
-Then run the following command
+    curl -sSL https://raw.github.com/cddlimited/setup/master/setup.sh > /tmp/setup.sh
+
+Then run the following command in terminal
 
 	sh /tmp/setup.sh
