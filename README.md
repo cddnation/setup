@@ -3,7 +3,7 @@ CDD Development Setup - MAC OS X
 
 Get setup for developing on the CDD stack (OSX). Run the commands below to get setup in a jiffy.
 
-__FED Stack__
+__Stack Tools__
 
 Will give you the following:
 
